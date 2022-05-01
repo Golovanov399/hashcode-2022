@@ -4,7 +4,6 @@ import pygame
 import os
 import sys
 from math import *
-import platform
 from dataclasses import dataclass
 from copy import deepcopy
 
